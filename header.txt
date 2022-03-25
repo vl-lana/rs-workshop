@@ -1,4 +1,6 @@
 Some text
 Changes from master
 new change
+New addition: text!
+
 
